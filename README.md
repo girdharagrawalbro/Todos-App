@@ -16,11 +16,11 @@ This repository contains the code for Todos, a To-Do application made using Reac
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/yourusername/todos-app.git
+   git clone https://github.com/girdharagrawalbro/Todos-App.git
       
 2. **Install Dependencies**:
      ```bash
-    cd newsapi-website
+    cd Todos-App
     npm install
      ```
 3. **Run the Application**:
