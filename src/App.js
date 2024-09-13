@@ -1,9 +1,8 @@
-// App.js
-import Header from "./Header";
-import { AddTodo } from "./AddTodo";
-import { Todos } from "./Todos";
-import { TodoItem } from "./TodoItem";
-import { Footer } from "./Footer";
+import 'bootstrap/dist/css/bootstrap.min.css';
+import Header from "./components/Header";
+import { AddTodo } from "./components/AddTodo";
+import { Todos } from "./components/Todos";
+import { Footer } from "./components/Footer";
 import React, { useState, useEffect } from "react";
 
 function App() {
